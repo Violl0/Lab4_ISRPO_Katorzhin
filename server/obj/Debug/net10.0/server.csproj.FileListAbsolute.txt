@@ -1,0 +1,15 @@
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.sourcelink.json
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\bin\Debug\net10.0\server.exe
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\bin\Debug\net10.0\server.deps.json
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\bin\Debug\net10.0\server.runtimeconfig.json
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\bin\Debug\net10.0\server.dll
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\bin\Debug\net10.0\server.pdb
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.dll
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\refint\server.dll
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.pdb
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+D:\Lab4_ISRPO_Katorzhin\Lab4_ISRPO_Katorzhin\server\obj\Debug\net10.0\ref\server.dll
